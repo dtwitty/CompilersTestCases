@@ -7,10 +7,10 @@ Sets of test cases for CS 4121
 Please follow this format for test cases:
 
 input: 
-<test_name>.in
+test_name.in
 
 output:
-<test_name>.out
+test_name.out
 
 Please try to give each test a descriptive name. 
 If you are worried about race conditions, feel free to make your own subfolders.
